@@ -44,4 +44,4 @@ O GitHub mostrará o endereço público quando a publicação terminar.
 
 ## Privacidade
 
-Como o site é público e a atleta é menor de idade, endereço residencial, telefone, documentos pessoais e dados bancários do currículo original não foram incluídos. O site mostra somente informações esportivas, idade calculada automaticamente e e-mail de contato.
+Como o site é público e a atleta é menor de idade, endereço residencial, documentos pessoais e dados bancários do currículo original não foram incluídos. O site mostra somente informações esportivas, idade calculada automaticamente e os contatos autorizados de e-mail e WhatsApp.
