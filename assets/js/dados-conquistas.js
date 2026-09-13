@@ -12,6 +12,11 @@
 */
 
 window.CONQUISTAS_MARIA_VALENTINA = [
+  { ano: 2026, tipo: "titulo", resultado: "Campeã", competicao: "Semana Estudantil Mocajubense", categoria: "Adulto" },
+  { ano: 2026, tipo: "titulo", resultado: "Campeã", competicao: "Semana Estudantil Baioniense", categoria: "Adulto" },
+  { ano: 2026, tipo: "titulo", resultado: "Campeã", competicao: "JEPS — Colégio Santa Catarina de Sena", categoria: "Categoria B" },
+  { ano: 2026, tipo: "titulo", resultado: "Campeã", competicao: "Super JEPS — Colégio Santa Catarina de Sena", categoria: "Categoria B" },
+
   { ano: 2025, tipo: "titulo", resultado: "Campeã", competicao: "Campeonato Paraense", categoria: "Sub-16" },
   { ano: 2025, tipo: "titulo", resultado: "Campeã", competicao: "Campeonato Paraense", categoria: "Sub-17" },
   { ano: 2025, tipo: "titulo", resultado: "Campeã", competicao: "Campeonato Paraense", categoria: "Sub-19" },
@@ -36,6 +41,7 @@ window.CONQUISTAS_MARIA_VALENTINA = [
   { ano: 2023, tipo: "titulo", resultado: "Campeã", competicao: "Copa Colégio Santa Catarina de Sena", categoria: "U-15" },
   { ano: 2023, tipo: "titulo", resultado: "Campeã", competicao: "Copa APADE", categoria: "U-15" },
 
+  { ano: 2026, tipo: "premio", resultado: "Melhor da partida", competicao: "Campeonato Paraense", categoria: "Sub-19" },
   { ano: 2025, tipo: "premio", resultado: "Melhor levantadora", competicao: "Campeonato Paraense", categoria: "Sub-16" },
   { ano: 2025, tipo: "premio", resultado: "Melhor levantadora", competicao: "Campeonato Paraense", categoria: "Sub-19" },
   { ano: 2025, tipo: "premio", resultado: "Melhor levantadora", competicao: "Campeonato Brasileiro de Seleções — 2ª divisão", categoria: "Sub-16" },
